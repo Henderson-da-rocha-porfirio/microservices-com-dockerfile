@@ -1,4 +1,4 @@
-# Microserviço Account (Contas) dockerizado - utilizando definicões em Dockerfile
+# Microserviço Account (Contas) dockerizado - utilizando definições em Dockerfile
 ### Acessando ao H2
 ### - Lembrar:
 #### a. Criar um arquivo sql: data.sql
